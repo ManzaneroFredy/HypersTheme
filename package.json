@@ -2,6 +2,7 @@
   "name": "hypers-theme",
   "displayName": "Hypers Theme",
   "description": "Official Hypers team theme",
+  "publisher": "HyperTeam",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.98.0"
