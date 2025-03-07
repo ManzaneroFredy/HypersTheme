@@ -1,0 +1,24 @@
+{
+  "name": "hypers-theme",
+  "displayName": "Hypers Theme",
+  "description": "Official Hypers team theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hypers theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hypers theme-color-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "hypers-theme": "file:"
+  }
+}
