@@ -1,10 +1,23 @@
 {
-	"name": "Hypers theme",
+	"name": "Hypers Vaporwave",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#1A1040",
+		"editor.foreground": "#F5D9FF",
+		"activityBarBadge.background": "#FF00FF",
+		"sideBarTitle.foreground": "#00FFFF",
+		"activityBar.background": "#2A1B3A",
+		"activityBar.foreground": "#FF9EE5",
+		"sideBar.background": "#251243",
+		"sideBar.foreground": "#C5A7E5",
+		"titleBar.activeBackground": "#2A1B3A",
+		"titleBar.activeForeground": "#FF9EE5",
+		"statusBar.background": "#2A1B3A",
+		"statusBar.foreground": "#00FFFF",
+		"tab.activeBackground": "#3A1C65",
+		"tab.inactiveBackground": "#271449",
+		"editorGroupHeader.tabsBackground": "#1A1040",
+		"terminal.background": "#1A1040",
+		"terminal.foreground": "#F5D9FF"
 	},
 	"tokenColors": [
 		{
@@ -15,7 +28,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#8A6BC1"
 			}
 		},
 		{
@@ -25,7 +38,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#D8BFD8"
 			}
 		},
 		{
@@ -34,7 +47,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#00FFFF"
 			}
 		},
 		{
@@ -44,7 +57,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#FF6AF0"
 			}
 		},
 		{
@@ -55,7 +68,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#FF00FF"
 			}
 		},
 		{
@@ -75,7 +88,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#00FFFF"
 			}
 		},
 		{
@@ -99,7 +112,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#01CDFE"
 			}
 		},
 		{
@@ -134,7 +147,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#FFE900"
 			}
 		},
 		{
@@ -149,7 +162,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#05FFA1"
 			}
 		},
 		{
@@ -165,7 +178,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#B967FF"
 			}
 		},
 		{
