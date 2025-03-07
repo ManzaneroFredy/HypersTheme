@@ -1,10 +1,20 @@
 {
-	"name": "Hypers theme",
+	"name": "Hypers Vaporwave",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#1a0933",
+		"editor.foreground": "#f4ddff",
+		"activityBarBadge.background": "#ff00aa",
+		"sideBarTitle.foreground": "#f4bbff",
+		"activityBar.background": "#2d0a5a",
+		"activityBar.foreground": "#ff9cee",
+		"sideBar.background": "#251040",
+		"titleBar.activeBackground": "#2d0a5a",
+		"statusBar.background": "#2d0a5a",
+		"statusBar.foreground": "#ff9cee",
+		"tab.activeBackground": "#3b0d73",
+		"tab.inactiveBackground": "#251040",
+		"editorLineNumber.foreground": "#ff9cee80",
+		"editorCursor.foreground": "#00eeff"
 	},
 	"tokenColors": [
 		{
@@ -15,7 +25,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#7b6d94"
 			}
 		},
 		{
@@ -25,7 +35,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#f4ddff"
 			}
 		},
 		{
@@ -34,7 +44,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#00eeff"
 			}
 		},
 		{
@@ -55,7 +65,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#ff00aa"
 			}
 		},
 		{
@@ -75,7 +85,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#00eeff"
 			}
 		},
 		{
@@ -99,7 +109,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#18f9ff"
 			}
 		},
 		{
@@ -134,7 +144,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#ff71ce"
 			}
 		},
 		{
@@ -149,7 +159,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#b967ff"
 			}
 		},
 		{
@@ -422,7 +432,7 @@
 		{
 			"name": "JSON Key - Level 8",
 			"scope": [
-				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
 				"foreground": "#C3E88D"
